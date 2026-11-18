@@ -1,4 +1,4 @@
-const express = require("express");
+const express = "express";
 const Database = require("better-sqlite3");
 
 const app = express();
